@@ -1,0 +1,8 @@
+Dalam hal ini saya dapat menyimpulkan dari praktikum saya baru di kerjakan ada sebuah karakteristik untuk sebauh pengaturan amplitudo dan frekuensi dengan parameter utama penentu bentuk fisik pada gelombang.
+Dengan ini saya menganalisa secara programatik memungkinan saya mendeksi sebauh titik pucak untuk mengetahui sejauh mana sistem mencapai batas maksimalnya dan zero crising(batas bawah) untuk menghitung berapa kali begantinya polaritas.
+Perbedaan funsinya untuk sinus dan konsinys terletak pada sudut fasenya di mana konsinus seleu akan mendahului sinus itu sendiri.
+Dengan penerapam ini fase acak akan menyimpulkan kondisi di dalam mana sinyak mengalami keterlambatan atau ketidaktertentuna waktu untuk waktu masuk ke dalam sistem.
+Frekuensi acak k menyimpulkan sebauh adanya gangguna atau penrubahan kecepatan data yang tidak konstan dengan menggunakan disribusi uniform memastikan peluang untuk terjadinya sangat
+penting dalam pengujain ketahanan sebauh sistem kedali pada gangguan.Dalam sistem yang ketiga itu adlah sebagai sebauh hasil yang saya kerjakan sebalumnya untuk meligar sebauh perbedaan sudut tetap sebesar 120 derajat.
+Dalam sistem ini mejukan sebauh keseimbagag harus dilakukan makan akan terciptan untuk kondiis unbalenced(Tidak seimbang) yang kan menyebabkan ketidak efisianenya daya dan potensi kerusakan.
+Jadi untuk sebauh hasil yang asya dapatkan dalam memahami intereratis senusodan dan inplemetasinya itu dapan melakukan analasisis dan sebauh prilaskuk pada sistem dengan cepat dan akuran sebelum menjadi konsep nyata.
